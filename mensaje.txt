@@ -1,5 +1,5 @@
-Hola mundo bonito
-adios socio
+Hola mundo gris
+adios parce
 
 linea1
 linea2
