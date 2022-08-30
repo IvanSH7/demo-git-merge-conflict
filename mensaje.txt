@@ -1,5 +1,5 @@
-Hola mundo cruel
-adios perro
+Hola mundo gris
+adios parce
 
 linea1
 linea2
